@@ -1,5 +1,5 @@
 - 👋 Hi, I’m: @heysourin
-- 👀 I’m interested in: Blockchain, Web3, DeFi, Solidity, Smart contracts
+- 👀 I’m interested in: Blockchain, Web3, DeFi, dApps, Solidity, Smart contracts
 - 🌱 I’m currently learning: Javascript, Solidity, Blockchain, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @heysourin on twitter
