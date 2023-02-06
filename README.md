@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sourin, You can call me Max<br>🔥 Ethereum Solidity Developer<br>👀 Interested in: Blockchain, Web3, DeFi, dApps, Solidity, Smart contracts<br>🌱 Currently learning: Javascript, Solidity, Blockchain, Python<br>📫 Reach me: @heysourin on twitter
+👋 Hi, I’m Sourin, You can call me Max<br>🔥 Ethereum Solidity Developer<br>🚀Current Tech Stack: Ethereum, Solidity, Hardhat, Foundry, Next.js<br>👀 Interested in: Blockchain, Web3, DeFi, DApps, Decentralization<br>🌱 Currently learning: Javascript, Solidity, Blockchain, Python<br>📫 Reach me: @heysourin on twitter
 
 
 ## 🌐 Socials:
