@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sourin, you can call me Max<br>🔥 Machine Learning Engineer || Data Scientist || MLOps Engineer <br>🚀 Current Tech Stack: Python, Numpy, Pandas, Scikit-learn, TensorFlow, Spacy<br>👀 Interested in: Natural Language Processing, Large Language Models, Artificial General Intelligence <br>🌱 Currently learning: Natural Language Processing, LLMs, End to end products, MLOps <br>🔑 Previous Tech stack: Ethereum Blockchain, Backend, DevOps & Cloud<br>📫 Reach me: [Twitter](https://twitter.com/0xSourin) and [LinkedIn](https://linkedin.com/in/heysourin)
+👋 Hi, I’m Sourin, you can call me Max<br>🔥 Machine Learning Engineer || Data Scientist || MLOps Engineer <br>🚀 Current Tech Stack: Python, Numpy, Pandas, Scikit-learn, TensorFlow, Spacy<br>👀 Interested in: Natural Language Processing, Large Language Models, Artificial General Intelligence <br>🌱 Currently learning: Natural Language Processing, LLMs, End to end products, MLOps <br>🔑 Previous Tech stack: Ethereum Blockchain, Backend, DevOps & Cloud<br>📫 Reach me: [Twitter](https://twitter.com/hey.sourin) and [LinkedIn](https://linkedin.com/in/heysourin)
 
 
 ## 🌐 Socials:
